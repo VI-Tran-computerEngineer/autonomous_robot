@@ -18,5 +18,5 @@ Change the "(x : y)" coodinate of the goal in line 15 of "execute.sh" file:\
 Go to autonomous_robot directory:\
 ```$ roscd autonomous_robot```\
 \
-Then run the bash file to start: 
+Then run the bash file to start:\
 ```$ ./execute.sh```
