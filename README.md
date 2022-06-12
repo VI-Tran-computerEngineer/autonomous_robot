@@ -4,6 +4,7 @@ The Autonomous robot system use ROS (Robot operating system) and is integrated t
 # Setup and run system step by step
 ## 1. First, input the goal that expects the robot to go to:
 ```$ roscd autonomous_robot```\
+\
 Change the "(x : y)" coodinate of the goal in line 15 of "execute.sh" file:\
 ```$ rosrun automotive_robot RobotGlobalVisionUpdate.py -gx {x value} -gy {y value}```
 ## 2. Run roscore in the master device:
